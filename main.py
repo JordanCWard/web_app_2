@@ -43,3 +43,4 @@ with column_b1:
 with column_b2:
     for index, row in data_file[10:].iterrows():
         st.header(row["title"])
+
